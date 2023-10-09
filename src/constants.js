@@ -1,1 +1,1 @@
-export const BASE_URL = "http://localhost:3000/api/v1";
+export const BASE_URL = "https://gamehub-ybh2.onrender.com//api/v1";
