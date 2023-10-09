@@ -22,7 +22,7 @@ const CreateUser = () => {
         },
         body: JSON.stringify({ username: username.toLowerCase(), password }),
         credentials: "include",
-        mode:"cors"
+        mode:"no-cors"
       });
       const data = await res.json();
       const user = data.data.user;
