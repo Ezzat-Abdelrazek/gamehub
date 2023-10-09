@@ -11,8 +11,7 @@ GameHub is a web-based platform for playing interactive games. Currently, it off
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 
