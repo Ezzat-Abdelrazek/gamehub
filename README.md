@@ -17,7 +17,7 @@ GameHub is a web-based platform for playing interactive games. Currently, it off
 
 ![GameHub Demo](demo.gif)
 
-[Live Demo](https://your-live-demo-url.com)
+https://gamehub-git-main-ezzat-abdelrazek.vercel.app/
 
 ## Features
 
