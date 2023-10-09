@@ -58,7 +58,7 @@ npm install
 The GameHub application should now be running locally on http://localhost:5173.
 
 ## Usage
-1. Open your web browser and navigate to http://localhost:3000.
+1. Open your web browser and navigate to http://localhost:5173.
 2. Try to answer the math question as quickly as possible to earn a high score.
 3. Check the leaderboard to see how you rank among other players.
 
