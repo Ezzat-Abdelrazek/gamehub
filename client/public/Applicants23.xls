@@ -1,0 +1,596 @@
+
+            <table bordered="1">
+                <tr>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Academic Year</th>
+                    <th>University</th>
+                    <th>Phone Number</th>
+                    <th>First Preference</th>
+                    <th>Second Preference</th>
+                    <th>Department</th>
+                </tr>
+        
+                <tr>
+                    <td>mohamed mahmoud</td>
+                    <td>Mohamed.mahmoud@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>Cairo</td>
+                    <td>1000000000</td>
+                    <td>IT</td>
+                    <td> Media</td>
+                    <td>electrical</td>
+                </tr>
+            
+                <tr>
+                    <td>Nada Hossam Mahmoud </td>
+                    <td>nadahussam8494@gmail.com</td>
+                    <td>freshmen</td>
+                    <td>Ain shams </td>
+                    <td>1003928494</td>
+                    <td>HR</td>
+                    <td> Media</td>
+                    <td>other</td>
+                </tr>
+            
+                <tr>
+                    <td>Ziad mohamed ahmed</td>
+                    <td>zyad23949@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>Ain shams University </td>
+                    <td>1009028998</td>
+                    <td>Jet engine</td>
+                    <td> Embedded</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Eman Gamal Mustafa </td>
+                    <td>emangmustafa107@gmail.com</td>
+                    <td>senior 2</td>
+                    <td>Ain shams </td>
+                    <td>1012897829</td>
+                    <td>QM</td>
+                    <td> PR & Logistics</td>
+                    <td>electrical</td>
+                </tr>
+            
+                <tr>
+                    <td>Mariam Muhammad </td>
+                    <td>mariamm.180h@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>Ain shams </td>
+                    <td>1015885510</td>
+                    <td>PR & Logistics</td>
+                    <td> HR</td>
+                    <td>civil</td>
+                </tr>
+            
+                <tr>
+                    <td>Zeyad ramadan abd el hady </td>
+                    <td>zizo2002503@gmail.com</td>
+                    <td>junior</td>
+                    <td>Faculty of engineering Ain Shams University </td>
+                    <td>1017277995</td>
+                    <td>Jet engine</td>
+                    <td> Matlab</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Shahd Atef Abdelaziz Afifi</td>
+                    <td>shahddatef81@gmail.com</td>
+                    <td>senior 1</td>
+                    <td>Ain shams university</td>
+                    <td>1018632265</td>
+                    <td>Arduino</td>
+                    <td> Matlab</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Malak Ashraf Ahmed</td>
+                    <td>ashrafmalak795@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>Ain shams</td>
+                    <td>1024083346</td>
+                    <td>Jet engine</td>
+                    <td> Arduino</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Tayseer Ashraf Abdelhalim</td>
+                    <td>tayseerashraf8@gmail.com</td>
+                    <td>junior</td>
+                    <td>Ain shams</td>
+                    <td>1025005089</td>
+                    <td>HR</td>
+                    <td> PR & Logistics</td>
+                    <td>electrical</td>
+                </tr>
+            
+                <tr>
+                    <td>Karmen Mohamed Abdelgwad </td>
+                    <td>KarmenMohammed2003@gmail.com</td>
+                    <td>junior</td>
+                    <td>Ain shams university </td>
+                    <td>1026959327</td>
+                    <td>Photoshop</td>
+                    <td> IT</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Hosam Hassan Saleh </td>
+                    <td>hosamsaleh950@gmail.com</td>
+                    <td>junior</td>
+                    <td>Ain Shams</td>
+                    <td>1028799472</td>
+                    <td>PR & Logistics</td>
+                    <td> Media</td>
+                    <td>architecture</td>
+                </tr>
+            
+                <tr>
+                    <td>Aya Abdulmotteleb Youssef Ali </td>
+                    <td>ayaabdelmotlb2002@gmail.com</td>
+                    <td>junior</td>
+                    <td>Alsun Ain Shams </td>
+                    <td>1029282368</td>
+                    <td>HR</td>
+                    <td> Media</td>
+                    <td>other</td>
+                </tr>
+            
+                <tr>
+                    <td>Haidy Abdallah Ali Elmansoury</td>
+                    <td>elmansouryhaidy100@gmail.com</td>
+                    <td>senior 1</td>
+                    <td>Ain Shams </td>
+                    <td>1029776488</td>
+                    <td>Jet engine</td>
+                    <td> Arduino</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Morkus rezk</td>
+                    <td>morkusrezk@gmail.com</td>
+                    <td>senior 1</td>
+                    <td>Ain shams</td>
+                    <td>1030457738</td>
+                    <td>Embedded</td>
+                    <td> Second Preference</td>
+                    <td>electrical</td>
+                </tr>
+            
+                <tr>
+                    <td>Ziad adel mahmoud </td>
+                    <td>zizoadelnasr@gmail.com</td>
+                    <td>junior</td>
+                    <td>Ain shams </td>
+                    <td>1032046912</td>
+                    <td>Media</td>
+                    <td> QM</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Hamza Mohamed Abd ElHakim Abd ElKadir </td>
+                    <td>hamzahamza050875@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>Ain Shams</td>
+                    <td>1033770304</td>
+                    <td>Embedded</td>
+                    <td> Jet engine</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Yousef Hussein</td>
+                    <td>ucfhm2004@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>Ain Shams</td>
+                    <td>1062367421</td>
+                    <td>Revit</td>
+                    <td> Photoshop</td>
+                    <td>architecture</td>
+                </tr>
+            
+                <tr>
+                    <td>MennatAllah Adel Khairat Mahmoud Elguindi</td>
+                    <td>2100654@eng.asu.edu.eg</td>
+                    <td>junior</td>
+                    <td>Ain Shams U </td>
+                    <td>1065521839</td>
+                    <td>PR & Logistics</td>
+                    <td> Matlab</td>
+                    <td>electrical</td>
+                </tr>
+            
+                <tr>
+                    <td>Mariam Mohamed Badreldin Morsy</td>
+                    <td>mm3335013@gmail.com</td>
+                    <td>senior 1</td>
+                    <td>Ain Shmas</td>
+                    <td>1065694766</td>
+                    <td>Jet engine</td>
+                    <td> IT</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Ayatallah Ahmed Abdelsabour</td>
+                    <td>ayatallahahmedv6@gmail.com</td>
+                    <td>junior</td>
+                    <td>Alsun - Ain shams</td>
+                    <td>1069264258</td>
+                    <td>HR</td>
+                    <td> QM</td>
+                    <td>other</td>
+                </tr>
+            
+                <tr>
+                    <td>Norhan Elsayed</td>
+                    <td>Norhan.essayed25@gmail.com</td>
+                    <td>senior 1</td>
+                    <td>Ain shams university </td>
+                    <td>1090942952</td>
+                    <td>Media</td>
+                    <td> PR & Logistics</td>
+                    <td>electrical</td>
+                </tr>
+            
+                <tr>
+                    <td>Mohammed othman</td>
+                    <td>Osmanmohammed05yu@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>Ain shams</td>
+                    <td>1094361177</td>
+                    <td>Arduino</td>
+                    <td> Matlab</td>
+                    <td>electrical</td>
+                </tr>
+            
+                <tr>
+                    <td>Mariam Adel Ali Mashal </td>
+                    <td>mariam.mashal269@gmail.com</td>
+                    <td>senior 1</td>
+                    <td>Ain shams </td>
+                    <td>1096106884</td>
+                    <td>PR & Logistics</td>
+                    <td> Jet engine</td>
+                    <td>other</td>
+                </tr>
+            
+                <tr>
+                    <td>????? ???? ????</td>
+                    <td>moustafatarek378@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>Ain shams</td>
+                    <td>1099687827</td>
+                    <td>HR</td>
+                    <td> Photoshop</td>
+                    <td>civil</td>
+                </tr>
+            
+                <tr>
+                    <td>Eman Nashaat</td>
+                    <td>eman.nashat206@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>Higher technological institution HTI</td>
+                    <td>1099785983</td>
+                    <td>Jet engine</td>
+                    <td> Matlab</td>
+                    <td>other</td>
+                </tr>
+            
+                <tr>
+                    <td>Ahmed Mohamed Nassar</td>
+                    <td>a.moh.nassar00@gmail.com</td>
+                    <td>junior</td>
+                    <td>Modern Academy </td>
+                    <td>1110102554</td>
+                    <td>IT</td>
+                    <td> PR & Logistics</td>
+                    <td>other</td>
+                </tr>
+            
+                <tr>
+                    <td>Muhannad </td>
+                    <td>mohanadahmed.ma21@gmail.com</td>
+                    <td>senior 1</td>
+                    <td>ASU</td>
+                    <td>1110783738</td>
+                    <td>Embedded</td>
+                    <td> Matlab</td>
+                    <td>electrical</td>
+                </tr>
+            
+                <tr>
+                    <td>Esraa Said Ebido</td>
+                    <td>esraaebado@gmail.com</td>
+                    <td>junior</td>
+                    <td>Ain shams University </td>
+                    <td>1112118078</td>
+                    <td>Revit</td>
+                    <td> Photoshop</td>
+                    <td>architecture</td>
+                </tr>
+            
+                <tr>
+                    <td>jana hussein hassan</td>
+                    <td>janahussrin15@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>ain shams university </td>
+                    <td>1113328477</td>
+                    <td>Photoshop</td>
+                    <td> Matlab</td>
+                    <td>civil</td>
+                </tr>
+            
+                <tr>
+                    <td>Youssef sayed</td>
+                    <td>yuossefsayed7472@gmail.com</td>
+                    <td>freshmen</td>
+                    <td>Ain Shams University </td>
+                    <td>1118962819</td>
+                    <td>PR & Logistics</td>
+                    <td> IT</td>
+                    <td>other</td>
+                </tr>
+            
+                <tr>
+                    <td>Eyad Waleed</td>
+                    <td>eyadwaleed2512000@gmail.com</td>
+                    <td>senior 1</td>
+                    <td>Ain shams </td>
+                    <td>1119413650</td>
+                    <td>QM</td>
+                    <td> HR</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Nathalie Marwan Ibrahim Labib</td>
+                    <td>nmld2002@gmail.com</td>
+                    <td>senior 1</td>
+                    <td>Ainshams university </td>
+                    <td>1125966129</td>
+                    <td>Embedded</td>
+                    <td> Arduino</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Abdullahi mursal ahmed</td>
+                    <td>abdallamursalahmed@gmail.con</td>
+                    <td>sophomore</td>
+                    <td>Ainshams</td>
+                    <td>1126034576</td>
+                    <td>Jet engine</td>
+                    <td> QM</td>
+                    <td>civil</td>
+                </tr>
+            
+                <tr>
+                    <td>Mohamed ahmed</td>
+                    <td>mohamedahmed@gmail.com</td>
+                    <td>senior 1</td>
+                    <td>Ain shams</td>
+                    <td>1126678780</td>
+                    <td>FR</td>
+                    <td> Media</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Mahmoud Ahmed Mohamed Moner </td>
+                    <td>mahmoudmoner211@gmail.com</td>
+                    <td>senior 1</td>
+                    <td>Ain Shams</td>
+                    <td>1128925779</td>
+                    <td>Embedded</td>
+                    <td> Arduino</td>
+                    <td>electrical</td>
+                </tr>
+            
+                <tr>
+                    <td>Mohamed El Aref abd al aal </td>
+                    <td>mohm.aref575@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>Ain shams university </td>
+                    <td>1144444283</td>
+                    <td>Jet engine</td>
+                    <td> Media</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Ahmed Mohamed</td>
+                    <td>ahmedfarahat555@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>Ain shams</td>
+                    <td>1147535451</td>
+                    <td>HR</td>
+                    <td> Media</td>
+                    <td>civil</td>
+                </tr>
+            
+                <tr>
+                    <td>Omar Taher Hussein </td>
+                    <td>omartaher20@gmail.com</td>
+                    <td>senior 2</td>
+                    <td>Ain Shams</td>
+                    <td>1148367234</td>
+                    <td>PR & Logistics</td>
+                    <td> QM</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Ahmed Emad Shehata Keshta</td>
+                    <td>ahmedkeshta801@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>Ain shams university </td>
+                    <td>1150124718</td>
+                    <td>Matlab</td>
+                    <td> Media</td>
+                    <td>electrical</td>
+                </tr>
+            
+                <tr>
+                    <td>sherif ahmed</td>
+                    <td>sherio.cr2@gmail.com</td>
+                    <td>junior</td>
+                    <td>ain shams </td>
+                    <td>1150292627</td>
+                    <td>Jet engine</td>
+                    <td> Second Preference</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Eman Amer Mohamed Ali </td>
+                    <td>aamereman8@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>CIC-Canadian International College </td>
+                    <td>1153486734</td>
+                    <td>IT</td>
+                    <td> PR & Logistics</td>
+                    <td>other</td>
+                </tr>
+            
+                <tr>
+                    <td>ELSIDDIG SALAMA ABDALLAH ABDELGADIR </td>
+                    <td>SEEDOOSALAMA@GMAIL.COM</td>
+                    <td>freshmen</td>
+                    <td>Ain shams unvirsity</td>
+                    <td>1156297383</td>
+                    <td>Photoshop</td>
+                    <td> Jet engine</td>
+                    <td>other</td>
+                </tr>
+            
+                <tr>
+                    <td>Ahmed mahmoud abdelazeem abdo </td>
+                    <td>ahmed3zima4433@gmail.com</td>
+                    <td>junior</td>
+                    <td>Ainshams </td>
+                    <td>1156409540</td>
+                    <td>Embedded</td>
+                    <td> Matlab</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Amira sami ahmed gad</td>
+                    <td>ami12.sam12@gmail.com</td>
+                    <td>junior</td>
+                    <td>faculty of science ain shams university </td>
+                    <td>1156620785</td>
+                    <td>HR</td>
+                    <td> PR & Logistics</td>
+                    <td>other</td>
+                </tr>
+            
+                <tr>
+                    <td>Ahmed Emad Shehata Keshta </td>
+                    <td>ahmedkeshta801@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>Ain shams university </td>
+                    <td>1200563585</td>
+                    <td>Matlab</td>
+                    <td> Media</td>
+                    <td>electrical</td>
+                </tr>
+            
+                <tr>
+                    <td>Jessica Samy Gad Elkareem </td>
+                    <td>jessj9401@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>Ain shams </td>
+                    <td>1202833326</td>
+                    <td>Embedded</td>
+                    <td> Arduino</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Rehab Mahmoud</td>
+                    <td>rehab.bayoumi04@eng-st.cu.edu.eg</td>
+                    <td>junior</td>
+                    <td>Cairo</td>
+                    <td>1208554068</td>
+                    <td>Matlab</td>
+                    <td> Jet engine</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Mark Nagy Georgy</td>
+                    <td>mark.nagygeorgy2000@yahoo.com</td>
+                    <td>senior 2</td>
+                    <td>Ain shams</td>
+                    <td>1208881914</td>
+                    <td>Embedded</td>
+                    <td> PR & Logistics</td>
+                    <td>electrical</td>
+                </tr>
+            
+                <tr>
+                    <td>Hany Rafat Talaat </td>
+                    <td>hanyrafat07@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>Ain Shams University </td>
+                    <td>1221595225</td>
+                    <td>Photoshop</td>
+                    <td> Arduino</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Karim mikhail louis</td>
+                    <td>karimmichael2002@yahoo.com</td>
+                    <td>senior 1</td>
+                    <td>Ainshams computer engineering</td>
+                    <td>1226417801</td>
+                    <td>Embedded</td>
+                    <td> IT</td>
+                    <td>electrical</td>
+                </tr>
+            
+                <tr>
+                    <td>Yasser Mohamed abdallah </td>
+                    <td>ym0470257@gmail.com</td>
+                    <td>sophomore</td>
+                    <td>Ain shams</td>
+                    <td>1272234783</td>
+                    <td>IT</td>
+                    <td> Embedded</td>
+                    <td>electrical</td>
+                </tr>
+            
+                <tr>
+                    <td>Sama Sameh Rashad</td>
+                    <td>ss7114532@gmail.com</td>
+                    <td>senior 1</td>
+                    <td>Ain shams</td>
+                    <td>1280509971</td>
+                    <td>Arduino</td>
+                    <td> Matlab</td>
+                    <td>mechanical</td>
+                </tr>
+            
+                <tr>
+                    <td>Shahd Mohamed Ibrahem </td>
+                    <td>shahdmohamed22996842@gmail.com</td>
+                    <td>junior</td>
+                    <td>Faculty of engineering ain shams University </td>
+                    <td>1282222961</td>
+                    <td>Jet engine</td>
+                    <td> HR</td>
+                    <td>mechanical</td>
+                </tr>
+            </table>
