@@ -16,7 +16,7 @@ const MathGame = ({ setTime }) => {
   useEffect(() => {
     let socketInstance;
     const startGame = async () => {
-      socketInstance = io("http://localhost:3000");
+      socketInstance = io("https://gamehub-ybh2.onrender.com/");
 
       socketInstance.on("connect", async () => {
         try {
